@@ -6,6 +6,7 @@ I made a game once and it won an award. It was called Swallowtheif https://jibju
 
 - 🔭 I’m currently working on going to Mars.
 - 🌱 I’m currently learning Swift and system admin.
+- 🌱 I’m also currently updating this repo once per day to look busy in GitHub one year from now cause all my projects are on Bitbucket so I look like a lazy ass
 - 👯 I’m looking to collaborate on web3 projects, games, web3 games.
 - 🤔 I’m looking for help with funding.
 - 💬 Ask me about javascript.
