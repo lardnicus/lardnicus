@@ -9,6 +9,5 @@ I made a game once and it won an award. It was called [Swallowtheif](https://jib
 - 👯 I’m looking to collaborate on web3 projects, games, web3 games.
 - 🤔 I’m looking for help with funding.
 - 💬 Ask me about javascript.
-- 📫 How to reach me: oliver at oliverlardner dot com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Gilles Deleuze and Felix Guattari are two different people.
