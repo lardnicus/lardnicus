@@ -2,11 +2,10 @@
 
 I'm a anarchocryptoarchiologist currently polyphasic-sleeping my way around all current timezones (I'm probably awake right now).
 
-I made a game once and it won an award. It was called Swallowtheif https://jibjub.com/swallowthief
+I made a game once and it won an award. It was called [Swallowtheif](https://jibjub.com/swallowthief)
 
-- 🔭 I’m currently working on going to Mars.
+- 🔭 I’m currently working on going to ~~Mars~~ [Pluto!](https://safepluto.tech/).
 - 🌱 I’m currently learning Swift and system admin.
-- 🌱 I’m also currently updating this repo once-per-day to look busy in GitHub one year from now cause my projects are on Bitbucket. But, watch this space.
 - 👯 I’m looking to collaborate on web3 projects, games, web3 games.
 - 🤔 I’m looking for help with funding.
 - 💬 Ask me about javascript.
