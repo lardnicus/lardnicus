@@ -11,3 +11,8 @@ I made a game once and it won an award. It was called [Swallowtheif](https://jib
 - 💬 Ask me about javascript.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Gilles Deleuze and Felix Guattari are two different people.
+
+Support my work and save some money:
+
+5% off FTX trading fees: https://ftx.com/#a=lardnicus
+10% off Binance trading fees: https://accounts.binance.cc/en/register?ref=XPZ5K4ZJ
