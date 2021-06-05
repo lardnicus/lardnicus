@@ -14,5 +14,5 @@ I made a game once and it won an award. It was called [Swallowtheif](https://jib
 
 Support my work and save some money:
 
-5% off FTX trading fees: https://ftx.com/#a=lardnicus
+5% off FTX trading fees: https://ftx.com/#a=lardnicus  
 10% off Binance trading fees: https://accounts.binance.cc/en/register?ref=XPZ5K4ZJ
